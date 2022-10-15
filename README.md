@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nicolas00209
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola ,soy @Nicolas00209
+- 👀 Mis pasatiempos son,jugar futbol,ver pelis, series y a veces entrenar
+- 🌱 Actualmente estoy aprendiendo programacion, y marketing digital
+ - 📫 Pueden contactarme mandandome un email a Nicolasveron096@gmail.com
+
 
 <!---
 Nicolas00209/Nicolas00209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
